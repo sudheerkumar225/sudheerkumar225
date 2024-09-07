@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudheer Kumar</h1>
-<h3 align="center">A passionate Senior Devops Engineer</h3>
+<h3 align="center">A passionate Lead Devops Engineer</h3>
 
 With a solid background in DevOps practices and proven expertise in Kubernetes orchestration, I am confident in my ability to contribute to the success of your team.
 
